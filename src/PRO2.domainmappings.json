@@ -1,0 +1,160 @@
+{
+    "DomainMappings": [
+        {
+            "Before": "www.b8ag.com",
+            "After": "https://mb.b8ag.com/ex-main/"
+        },
+		{
+            "Before": "www.b88ag.com",
+            "After": "https://mb.b88ag.com/ex-main/"
+        },
+		{
+            "Before": "www.b88agent.com",
+            "After": "https://mb.b88agent.com/ex-main/"
+        },
+		{
+            "Before": "www.agbong88.com",
+            "After": "https://mb.agbong88.com/ex-main/"
+        },
+		{
+            "Before": "www.bong88ag.com",
+            "After": "https://mb.bong88ag.com/ex-main/"
+        },
+		{
+            "Before": "www.myb8b.com",
+            "After": "https://mb.myb8b.com/ex-main/"
+        },
+		{
+            "Before": "www.bbmgr.com",
+            "After": "https://mb.bbmgr.com/ex-main/"
+        },
+		{
+            "Before": "www.boluna.com",
+            "After": "https://mb.boluna.com/ex-main/"
+        },
+		{
+            "Before": "www.zuki88.com",
+            "After": "https://mb.zuki88.com/ex-main/"
+        },
+		{
+            "Before": "www.balu88.com",
+            "After": "https://mb.balu88.com/ex-main/"
+        },
+		{
+            "Before": "www.hay88ag.com",
+            "After": "https://mb.hay88ag.com/ex-main/"
+        },
+		{
+            "Before": "www.hay88ag.net",
+            "After": "https://mb.hay88ag.net/ex-main/"
+        },
+		{
+            "Before": "www.v88ag.com",
+            "After": "https://mb.v88ag.com/ex-main/"
+        },
+		{
+            "Before": "www.v88agent.com",
+            "After": "https://mb.v88agent.com/ex-main/"
+        },
+		{
+            "Before": "www.meta88.com",
+            "After": "https://mb.meta88.com/ex-main/"
+        },
+		{
+            "Before": "www.mega199.com",
+            "After": "https://mb.mega199.com/ex-main/"
+        },
+		{
+            "Before": "www.nemo88.com",
+            "After": "https://mb.nemo88.com/ex-main/"
+        },
+		{
+            "Before": "www.logi88.com",
+            "After": "https://mb.logi88.com/ex-main/"
+        },
+		{
+            "Before": "www.fina88.com",
+            "After": "https://mb.fina88.com/ex-main/"
+        },
+		{
+            "Before": "www.center88.com",
+            "After": "https://mb.center88.com/ex-main/"
+        },
+		{
+            "Before": "www.pilot88.com",
+            "After": "https://mb.pilot88.com/ex-main/"
+        },
+		{
+            "Before": "www.feli88.com",
+            "After": "https://mb.feli88.com/ex-main/"
+        },
+		{
+            "Before": "www.fika88.com",
+            "After": "https://mb.fika88.com/ex-main/"
+        },
+		{
+            "Before": "www.wabi88.com",
+            "After": "https://mb.wabi88.com/ex-main/"
+        },
+		{
+            "Before": "www.sabi88.com",
+            "After": "https://mb.sabi88.com/ex-main/"
+        },
+		{
+            "Before": "www.manga88.com",
+            "After": "https://mb.manga88.com/ex-main/"
+        },
+		{
+            "Before": "www.hira88.com",
+            "After": "https://mb.hira88.com/ex-main/"
+        },
+		{
+            "Before": "www.drsam11.com",
+            "After": "https://mb.drsam11.com/ex-main/"
+        },
+		{
+            "Before": "www.sasa889.com",
+            "After": "https://mb.sasa889.com/ex-main/"
+        },
+		{
+            "Before": "www.file678.com",
+            "After": "https://mb.file678.com/ex-main/"
+        },
+		{
+            "Before": "www.xfile101.com",
+            "After": "https://mb.xfile101.com/ex-main/"
+        },
+		{
+            "Before": "www.vv4ever.com",
+            "After": "https://mb.vv4ever.com/ex-main/"
+        },
+		{
+            "Before": "www.viva6889.com",
+            "After": "https://mb.viva6889.com/ex-main/"
+        },
+		{
+            "Before": "www.3x998.com",
+            "After": "https://mb.3x998.com/ex-main/"
+        },
+		{
+            "Before": "www.x311y.com",
+            "After": "https://mb.x311y.com/ex-main/"
+        },
+		{
+            "Before": "www.123888999.com",
+            "After": "https://mb.123888999.com/ex-main/"
+        },
+		{
+            "Before": "www.vvinfo1.com",
+            "After": "https://mb.vvinfo1.com/ex-main/"
+        },
+		{
+            "Before": "789y.gatonic.com",
+            "After": "https://7y.gatonic.com/ex-main/"
+        },
+		{
+            "Before": "staging-y7.gatonic.com",
+            "After": "https://staging-y7-mb.gatonic.com/ex-main/"
+        }
+    ]
+}
