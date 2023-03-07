@@ -155,6 +155,46 @@
 		{
             "Before": "staging-y7.gatonic.com",
             "After": "https://staging-y7-mb.gatonic.com/ex-main/"
+        },
+		{
+            "Before": "www.dexa88.com",
+            "After": "https://mb.dexa88.com/ex-main/"
+        },
+		{
+            "Before": "www.portoa88.com",
+            "After": "https://mb.portoa88.com/ex-main/"
+        },
+		{
+            "Before": "www.perpa88.com",
+            "After": "https://mb.perpa88.com/ex-main/"
+        },
+		{
+            "Before": "www.litap88.com",
+            "After": "https://mb.litap88.com/ex-main/"
+        },
+		{
+            "Before": "www.buap88.com",
+            "After": "https://mb.buap88.com/ex-main/"
+        },
+		{
+            "Before": "www.troy88.com",
+            "After": "https://mb.troy88.com/ex-main/"
+        },
+		{
+            "Before": "www.asand88.com",
+            "After": "https://mb.asand88.com/ex-main/"
+        },
+		{
+            "Before": "www.wasa88.com",
+            "After": "https://mb.wasa88.com/ex-main/"
+        },
+		{
+            "Before": "www.asawa88.com",
+            "After": "https://mb.asawa88.com/ex-main/"
+        },
+		{
+            "Before": "www.aweda88.com",
+            "After": "https://mb.aweda88.com/ex-main/"
         }
     ]
 }
