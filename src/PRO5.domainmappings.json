@@ -1,0 +1,16 @@
+{
+    "DomainMappings": [
+        {
+            "Before": "www.bth688.com",
+            "After": "https://mb.bth688.com/ex-main/"
+        },
+		{
+            "Before": "www.bth788.com",
+            "After": "https://mb.bth788.com/ex-main/"
+        },
+		{
+            "Before": "www.bt1789.com",
+            "After": "https://mb.bt1789.com/ex-main/"
+        }
+    ]
+}
