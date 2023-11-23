@@ -11,6 +11,18 @@
 		{
             "Before": "www.bt1789.com",
             "After": "https://mb.bt1789.com/ex-main/"
+        },
+		{
+            "Before": "www.bth88ag.com",
+            "After": "https://mb.bth88ag.com/ex-main/"
+        },
+		{
+            "Before": "www.bt88ag.com",
+            "After": "https://mb.bt88ag.com/ex-main/"
+        },
+		{
+            "Before": "www.bt889ag.com",
+            "After": "https://mb.bt889ag.com/ex-main/"
         }
     ]
 }
