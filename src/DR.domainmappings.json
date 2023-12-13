@@ -1,0 +1,8 @@
+{
+    "DomainMappings": [
+        {
+            "Before": "mbc.byb6181.com",
+            "After": "https://mbc-mb.byb6181.com/ex-main/"
+        }
+    ]
+}
