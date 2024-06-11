@@ -195,6 +195,47 @@
 		{
             "Before": "www.aweda88.com",
             "After": "https://mb.aweda88.com/ex-main/"
+        },
+		{
+            "Before": "www.vi88ag.com",
+            "After": "https://mb.vi88ag.com/ex-main/"
+        },
+		{
+            "Before": "www.vi89ag.com",
+            "After": "https://mb.vi89ag.com/ex-main/"
+        },
+		{
+            "Before": "www.fina88ag.com",
+            "After": "https://mb.fina88ag.com/ex-main/"
+        },
+		{
+            "Before": "www.ec88ag.com",
+            "After": "https://mb.ec88ag.com/ex-main/"
+        },
+		{
+            "Before": "www.bele88.com",
+            "After": "https://mb.bele88.com/ex-main/"
+        }
+        ,
+		{
+            "Before": "www.pele88.com",
+            "After": "https://mb.pele88.com/ex-main/"
+        },
+		{
+            "Before": "www.me88ag.com",
+            "After": "https://mb.me88ag.com/ex-main/"
+        },
+		{
+            "Before": "www.wi88ag.com",
+            "After": "https://mb.wi88ag.com/ex-main/"
+        },
+		{
+            "Before": "www.go88ag.com",
+            "After": "https://mb.go88ag.com/ex-main/"
+        },
+		{
+            "Before": "www.go88al.com",
+            "After": "https://mb.go88al.com/ex-main/"
         }
     ]
 }
