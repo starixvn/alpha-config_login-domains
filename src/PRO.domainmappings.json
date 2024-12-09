@@ -75,6 +75,10 @@
 		{
             "Before": "staging-y1.gatonic.com",
             "After": "https://staging-y1-mb.gatonic.com/ex-main/"
+        },
+		{
+            "Before": "alp1.gatonic.com",
+            "After": "https://mbp1.gatonic.com/main"
         }
     ]
 }

@@ -236,6 +236,10 @@
 		{
             "Before": "www.go88al.com",
             "After": "https://mb.go88al.com/ex-main/"
+        },
+		{
+            "Before": "alp2.gatonic.com",
+            "After": "https://mbp2.gatonic.com/main"
         }
     ]
 }

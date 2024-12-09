@@ -23,6 +23,10 @@
 		{
             "Before": "www.tp7789.com",
             "After": "https://mb.tp7789.com/ex-main/"
+        },
+		{
+            "Before": "alp4.gatonic.com",
+            "After": "https://mbp4.gatonic.com/main"
         }
     ]
 }

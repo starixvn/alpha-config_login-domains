@@ -23,6 +23,10 @@
 		{
             "Before": "www.bt889ag.com",
             "After": "https://mb.bt889ag.com/ex-main/"
+        },
+		{
+            "Before": "alp5.gatonic.com",
+            "After": "https://mbp5.gatonic.com/main"
         }
     ]
 }
