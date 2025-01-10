@@ -240,6 +240,10 @@
 		{
             "Before": "alp2.gatonic.com",
             "After": "https://mbp2.gatonic.com/main"
+        },
+		{
+            "Before": "www.wi43ver.com",
+            "After": "https://mb.wi43ver.com/main"
         }
     ]
 }

@@ -35,6 +35,10 @@
 		{
             "Before": "alp3.gatonic.com",
             "After": "https://mbp3.gatonic.com/main"
+        },
+		{
+            "Before": "www.li88ag.com",
+            "After": "https://mb.li88ag.com/main"
         }
     ]
 }

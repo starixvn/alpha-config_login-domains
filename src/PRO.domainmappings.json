@@ -79,6 +79,10 @@
 		{
             "Before": "alp1.gatonic.com",
             "After": "https://mbp1.gatonic.com/main"
+        },
+		{
+            "Before": "www.mu88ag.com",
+            "After": "https://mb.mu88ag.com/main"
         }
     ]
 }
