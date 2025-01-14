@@ -31,6 +31,10 @@
 		{
             "Before": "staging-y11.gatonic.com",
             "After": "https://staging-y11-mb.gatonic.com/ex-main/"
+        },
+		{
+            "Before": "stalp3.gatonic.com",
+            "After": "https://stmbp3.gatonic.com/main"
         }
     ]
 }

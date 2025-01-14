@@ -195,6 +195,10 @@
 		{
             "Before": "www.aweda88.com",
             "After": "https://mb.aweda88.com/ex-main/"
+        },
+		{
+            "Before": "stalp2.gatonic.com",
+            "After": "https://stmbp2.gatonic.com/main"
         }
     ]
 }
