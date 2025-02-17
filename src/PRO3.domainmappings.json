@@ -2,11 +2,11 @@
     "DomainMappings": [
         {
             "Before": "www.halo888.com",
-            "After": "https://mb.halo888.com/ex-main/"
+            "After": "https://mb.halo888.com/main"
         },
 		{
             "Before": "www.123halo.com",
-            "After": "https://mb.123halo.com/ex-main/"
+            "After": "https://mb.123halo.com/main"
         },
 		{
             "Before": "www.idag88.com",
