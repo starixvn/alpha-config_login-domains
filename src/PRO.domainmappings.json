@@ -2,7 +2,7 @@
     "DomainMappings": [
         {
             "Before": "www.ultra88.com",
-            "After": "https://mb.ultra88.com/ex-main/"
+            "After": "https://mb.ultra88.com/main"
         },
 		{
             "Before": "www.logifun.com",
