@@ -1,38 +1,10 @@
 {
     "DomainMappings": [
         {
-            "Before": "www.halo888.com",
-            "After": "https://mb.halo888.com/ex-main/"
-        },
-		{
-            "Before": "www.123halo.com",
-            "After": "https://mb.123halo.com/ex-main/"
-        },
-		{
-            "Before": "www.idag88.com",
-            "After": "https://mb.idag88.com/ex-main/"
-        },
-		{
-            "Before": "www.idagent88.com",
-            "After": "https://mb.idagent88.com/ex-main/"
-        },
-		{
-            "Before": "www.idb68.com",
-            "After": "https://mb.idb68.com/ex-main/"
-        },
-		{
-            "Before": "www.ibcindo68.com",
-            "After": "https://mb.ibcindo68.com/ex-main/"
-        },
-		{
-            "Before": "www.baik168.com",
-            "After": "https://mb.baik168.com/ex-main/"
-        },
-		{
             "Before": "staging-y11.gatonic.com",
             "After": "https://staging-y11-mb.gatonic.com/ex-main/"
         },
-		{
+        {
             "Before": "stalp3.gatonic.com",
             "After": "https://stmbp3.gatonic.com/main"
         }

@@ -1,0 +1,13 @@
+{
+    "newdomains": [],
+    "skypeId": "live:nova88agent",
+    "letstalkurl": "https://www.letstalk.net/detect.html?info=eyJjb250ZW50IiA6IHsiYWNjb3VudF9pZCIgOiAibm92YTg4X2FnZW50In0sInR5cGUiIDogMH0=#",
+    "letstalkurlNew": "",
+    "letstalkid": "nova88_agent",
+    "letstalkidNew": "",
+    "IndirectLogin": {
+        "AllowSuperIds": "*",
+        "URL": "https://idp4.gatonic.com/main/Account/IndirectLogin"
+    },
+    "DomainMappings": []
+}

@@ -1,82 +1,10 @@
 {
     "DomainMappings": [
         {
-            "Before": "www.ultra88.com",
-            "After": "https://mb.ultra88.com/ex-main/"
-        },
-		{
-            "Before": "www.logifun.com",
-            "After": "https://mb.logifun.com/ex-main/"
-        },
-		{
-            "Before": "www.zeta88.com",
-            "After": "https://mb.zeta88.com/ex-main/"
-        },
-		{
-            "Before": "www.stakecity.com",
-            "After": "https://mb.stakecity.com/ex-main/"
-        },
-		{
-            "Before": "www.mefolk.com",
-            "After": "https://mb.mefolk.com/ex-main/"
-        },
-		{
-            "Before": "www.bictown.com",
-            "After": "https://mb.bictown.com/ex-main/"
-        },
-		{
-            "Before": "www.trumpback.com",
-            "After": "https://mb.trumpback.com/ex-main/"
-        },
-		{
-            "Before": "www.saki88.com",
-            "After": "https://mb.saki88.com/ex-main/"
-        },
-		{
-            "Before": "www.zuranic.com",
-            "After": "https://mb.zuranic.com/ex-main/"
-        },
-		{
-            "Before": "www.bori88.com",
-            "After": "https://mb.bori88.com/ex-main/"
-        },
-		{
-            "Before": "www.ozerani.com",
-            "After": "https://mb.ozerani.com/ex-main/"
-        },
-		{
-            "Before": "www.rubikta.com",
-            "After": "https://mb.rubikta.com/ex-main/"
-        },
-		{
-            "Before": "www.borinote.com",
-            "After": "https://mb.borinote.com/ex-main/"
-        },
-		{
-            "Before": "www.consonate.com",
-            "After": "https://mb.consonate.com/ex-main/"
-        },
-		{
-            "Before": "www.riki88.com",
-            "After": "https://mb.riki88.com/ex-main/"
-        },
-		{
-            "Before": "www.zata88.com",
-            "After": "https://mb.zata88.com/ex-main/"
-        },
-		{
-            "Before": "mbc.gatonic.com",
-            "After": "https://mb.gatonic.com/ex-main/"
-        },
-		{
-            "Before": "www.a77ag.com",
-            "After": "https://mb.a77ag.com/ex-main/"
-        },
-		{
             "Before": "staging-y1.gatonic.com",
             "After": "https://staging-y1-mb.gatonic.com/ex-main/"
         },
-		{
+        {
             "Before": "stalp1.gatonic.com",
             "After": "https://stmbp1.gatonic.com/main"
         }
