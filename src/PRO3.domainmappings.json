@@ -20,11 +20,11 @@
         },
 		{
             "Before": "www.idag88.com",
-            "After": "https://mb.idag88.com/ex-main/"
+            "After": "https://mb.idag88.com/main"
         },
 		{
             "Before": "www.idagent88.com",
-            "After": "https://mb.idagent88.com/ex-main/"
+            "After": "https://mb.idagent88.com/main"
         },
 		{
             "Before": "www.idb68.com",
@@ -32,15 +32,15 @@
         },
 		{
             "Before": "www.ibcindo68.com",
-            "After": "https://mb.ibcindo68.com/ex-main/"
+            "After": "https://mb.ibcindo68.com/main"
         },
 		{
             "Before": "www.baik168.com",
-            "After": "https://mb.baik168.com/ex-main/"
+            "After": "https://mb.baik168.com/main"
         },
 		{
             "Before": "staging-y11.gatonic.com",
-            "After": "https://staging-y11-mb.gatonic.com/ex-main/"
+            "After": "https://staging-y11-mb.gatonic.com/main"
         },
 		{
             "Before": "alp3.gatonic.com",
