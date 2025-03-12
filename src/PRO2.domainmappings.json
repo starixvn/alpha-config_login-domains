@@ -280,6 +280,34 @@
 		{
             "Before": "www.wi43ver.com",
             "After": "https://mb.wi43ver.com/main"
+        },
+		{
+            "Before": "www.bo89ag.com",
+            "After": "https://mb.bo89ag.com/main"
+        },
+		{
+            "Before": "www.boag89.com",
+            "After": "https://mb.boag89.com/main"
+        },
+		{
+            "Before": "www.sbal88.com",
+            "After": "https://mb.sbal88.com/main"
+        },
+		{
+            "Before": "www.wina78.com",
+            "After": "https://mb.wina78.com/main"
+        },
+		{
+            "Before": "www.spoag89.com",
+            "After": "https://mb.spoag89.com/main"
+        },
+		{
+            "Before": "www.champi68.com",
+            "After": "https://mb.champi68.com/main"
+        },
+		{
+            "Before": "www.spo68.com",
+            "After": "https://mb.spo68.com/main"
         }
     ]
 }
