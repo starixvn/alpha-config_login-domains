@@ -39,10 +39,6 @@
             "After": "https://mb.baik168.com/main"
         },
 		{
-            "Before": "staging-y11.gatonic.com",
-            "After": "https://staging-y11-mb.gatonic.com/main"
-        },
-		{
             "Before": "alp3.gatonic.com",
             "After": "https://mbp3.gatonic.com/main"
         },

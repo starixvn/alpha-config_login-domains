@@ -76,15 +76,7 @@
         },
 		{
             "Before": "mbc.gatonic.com",
-            "After": "https://mb.gatonic.com/main"
-        },
-		{
-            "Before": "www.a77ag.com",
-            "After": "https://mb.a77ag.com/main"
-        },
-		{
-            "Before": "staging-y1.gatonic.com",
-            "After": "https://staging-y1-mb.gatonic.com/main"
+            "After": "https://mb.gatonic.com/ex-main/"
         },
 		{
             "Before": "alp1.gatonic.com",
