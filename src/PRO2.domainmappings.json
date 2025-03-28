@@ -182,11 +182,11 @@
         },
 		{
             "Before": "www.vvinfo1.com",
-            "After": "https://mb.vvinfo1.com/ex-main/"
+            "After": "https://mb.vvinfo1.com/main"
         },
 		{
             "Before": "789y.gatonic.com",
-            "After": "https://7y.gatonic.com/ex-main/"
+            "After": "https://7y.gatonic.com/main"
         },
 		{
             "Before": "www.dexa88.com",
@@ -222,7 +222,7 @@
         },
 		{
             "Before": "www.asawa88.com",
-            "After": "https://mb.asawa88.com/ex-main/"
+            "After": "https://mb.asawa88.com/main"
         },
 		{
             "Before": "www.aweda88.com",
