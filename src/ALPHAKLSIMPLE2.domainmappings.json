@@ -8,12 +8,16 @@
     "letstalkidNew": "viva88_agent",
     "IndirectLogin": {
         "AllowSuperIds": "*",
-        "URL": "https://789y-mb2.byb6181.com/main/Account/IndirectLogin"
+        "URL": "https://mb2.bt1789.com/main/Account/IndirectLogin"
     },
     "DomainMappings": [
         {
             "Before": "789y.byb6181.com",
             "After": "https://789y-mb.byb6181.com/main"
+        },
+		{
+            "Before": "www.bt1789.com",
+            "After": "https://mb.bt1789.com/main"
         }
     ]
 } 

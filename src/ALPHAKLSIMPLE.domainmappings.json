@@ -7,12 +7,16 @@
     "letstalkidNew": "",
     "IndirectLogin": {
         "AllowSuperIds": "*",
-        "URL": "https://mbc-mb2.byb6181.com/main/Account/IndirectLogin"
+        "URL": "https://mb2.bth688.com/main/Account/IndirectLogin"
     },
     "DomainMappings": [
         {
             "Before": "mbc.byb6181.com",
             "After": "https://mbc-mb.byb6181.com/main"
+        },
+		{
+            "Before": "www.bth688.com",
+            "After": "https://mb.bth688.com/main"
         }
     ]
 } 
