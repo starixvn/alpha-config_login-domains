@@ -1,5 +1,5 @@
 {
-	"newdomains": [],
+    "newdomains": [],
     "skypeId": "",
     "letstalkurl": "https://www.letstalk.net/detect.html?info=eyJjb250ZW50IiA6IHsiYWNjb3VudF9pZCIgOiAibm92YTg4X2FnZW50In0sInR5cGUiIDogMH0=#",
     "letstalkurlNew": "",
@@ -7,12 +7,7 @@
     "letstalkidNew": "",
     "IndirectLogin": {
         "AllowSuperIds": "*",
-        "URL": "https://indo-mb2.byb6181.com/main/Account/IndirectLogin"
+        "URL": "https://mb2.li88ag.com/main/Account/IndirectLogin"
     },
-    "DomainMappings": [
-        {
-            "Before": "indo.byb6181.com",
-            "After": "https://indo-mb.byb6181.com/main"
-        }
-    ]
-} 
+    "DomainMappings": []
+}

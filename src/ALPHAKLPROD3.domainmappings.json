@@ -7,12 +7,48 @@
     "letstalkidNew": "",
     "IndirectLogin": {
         "AllowSuperIds": "*",
-        "URL": "https://indo-mb2.byb6181.com/main/Account/IndirectLogin"
+        "URL": "https://indo-mb2-klp.starixplay.com/main/Account/IndirectLogin"
     },
     "DomainMappings": [
-        {
-            "Before": "indo.byb6181.com",
-            "After": "https://indo-mb.byb6181.com/main"
+		{
+            "Before": "indo-klp.starixplay.com",
+            "After": "https://indo-mb-klp.starixplay.com/main"
+        },
+		{
+            "Before": "www.halo888.com",
+            "After": "https://mb.halo888.com/main"
+        },
+		{
+            "Before": "www.123halo.com",
+            "After": "https://mb.123halo.com/main"
+        },
+		{
+            "Before": "www.idag88.com",
+            "After": "https://mb.idag88.com/main"
+        },
+		{
+            "Before": "www.idagent88.com",
+            "After": "https://mb.idagent88.com/main"
+        },
+		{
+            "Before": "www.idb68.com",
+            "After": "https://mb.idb68.com/main"
+        },
+		{
+            "Before": "www.ibcindo68.com",
+            "After": "https://mb.ibcindo68.com/main"
+        },
+		{
+            "Before": "www.baik168.com",
+            "After": "https://mb.baik168.com/main"
+        },
+		{
+            "Before": "alp3.gatonic.com",
+            "After": "https://mbp3.gatonic.com/main"
+        },
+		{
+            "Before": "www.li88ag.com",
+            "After": "https://mb.li88ag.com/main"
         }
     ]
 } 
