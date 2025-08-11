@@ -1,16 +1,8 @@
 {
     "DomainMappings": [
         {
-            "Before": "staging-y7.gatonic.com",
-            "After": "https://staging-y7-mb.gatonic.com/ex-main/"
-        },
-        {
-            "Before": "stalp2.gatonic.com",
-            "After": "https://stmbp2.gatonic.com/main"
-        },
-        {
             "Before": "alp2.alpha-stag-kl.gatonic.com",
-            "After": "https://mbp2.alpha-stag-kl.gatonic.com/main"
+            "After": "https://mbp2.alpha-stag-kl.gatonic.com/auth"
         }
     ]
 } 
