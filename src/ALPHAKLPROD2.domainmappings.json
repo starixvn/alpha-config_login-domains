@@ -33,281 +33,281 @@
     "letstalkidNew": "viva88_agent",
     "IndirectLogin": {
         "AllowSuperIds": "*",
-        "URL": "https://mb2.troy88.com/main/Account/IndirectLogin"
+        "URL": "https://mb2.troy88.com/auth/Account/IndirectLogin"
     },
     "DomainMappings": [
 		{
             "Before": "789y-klp.starixplay.com",
-            "After": "https://789y-mb-klp.starixplay.com/main"
+            "After": "https://789y-mb-klp.starixplay.com/auth"
         },
 		{
             "Before": "www.b8ag.com",
-            "After": "https://mb.b8ag.com/main"
+            "After": "https://mb.b8ag.com/auth"
         },
 		{
             "Before": "www.b88ag.com",
-            "After": "https://mb.b88ag.com/main"
+            "After": "https://mb.b88ag.com/auth"
         },
 		{
             "Before": "www.b88agent.com",
-            "After": "https://mb.b88agent.com/main"
+            "After": "https://mb.b88agent.com/auth"
         },
 		{
             "Before": "www.agbong88.com",
-            "After": "https://mb.agbong88.com/main"
+            "After": "https://mb.agbong88.com/auth"
         },
 		{
             "Before": "www.bong88ag.com",
-            "After": "https://mb.bong88ag.com/main"
+            "After": "https://mb.bong88ag.com/auth"
         },
 		{
             "Before": "www.myb8b.com",
-            "After": "https://mb.myb8b.com/main"
+            "After": "https://mb.myb8b.com/auth"
         },
 		{
             "Before": "www.bbmgr.com",
-            "After": "https://mb.bbmgr.com/main"
+            "After": "https://mb.bbmgr.com/auth"
         },
 		{
             "Before": "www.boluna.net",
-            "After": "https://mb.boluna.net/main"
+            "After": "https://mb.boluna.net/auth"
         },
 		{
             "Before": "www.zuki88.com",
-            "After": "https://mb.zuki88.com/main"
+            "After": "https://mb.zuki88.com/auth"
         },
 		{
             "Before": "www.balu88.com",
-            "After": "https://mb.balu88.com/main"
+            "After": "https://mb.balu88.com/auth"
         },
 		{
             "Before": "www.hay88ag.com",
-            "After": "https://mb.hay88ag.com/main"
+            "After": "https://mb.hay88ag.com/auth"
         },
 		{
             "Before": "www.hay88ag.net",
-            "After": "https://mb.hay88ag.net/main"
+            "After": "https://mb.hay88ag.net/auth"
         },
 		{
             "Before": "www.v88ag.com",
-            "After": "https://mb.v88ag.com/main"
+            "After": "https://mb.v88ag.com/auth"
         },
 		{
             "Before": "www.v88agent.com",
-            "After": "https://mb.v88agent.com/main"
+            "After": "https://mb.v88agent.com/auth"
         },
 		{
             "Before": "www.meta88.com",
-            "After": "https://mb.meta88.com/main"
+            "After": "https://mb.meta88.com/auth"
         },
 		{
             "Before": "www.mega199.com",
-            "After": "https://mb.mega199.com/main"
+            "After": "https://mb.mega199.com/auth"
         },
 		{
             "Before": "www.nemo88.com",
-            "After": "https://mb.nemo88.com/main"
+            "After": "https://mb.nemo88.com/auth"
         },
 		{
             "Before": "www.logi88.com",
-            "After": "https://mb.logi88.com/main"
+            "After": "https://mb.logi88.com/auth"
         },
 		{
             "Before": "www.fina88.com",
-            "After": "https://mb.fina88.com/main"
+            "After": "https://mb.fina88.com/auth"
         },
 		{
             "Before": "www.center88.com",
-            "After": "https://mb.center88.com/main"
+            "After": "https://mb.center88.com/auth"
         },
 		{
             "Before": "www.pilot88.com",
-            "After": "https://mb.pilot88.com/main"
+            "After": "https://mb.pilot88.com/auth"
         },
 		{
             "Before": "www.feli88.com",
-            "After": "https://mb.feli88.com/main"
+            "After": "https://mb.feli88.com/auth"
         },
 		{
             "Before": "www.fika88.com",
-            "After": "https://mb.fika88.com/main"
+            "After": "https://mb.fika88.com/auth"
         },
 		{
             "Before": "www.wabi88.com",
-            "After": "https://mb.wabi88.com/main"
+            "After": "https://mb.wabi88.com/auth"
         },
 		{
             "Before": "www.sabi88.com",
-            "After": "https://mb.sabi88.com/main"
+            "After": "https://mb.sabi88.com/auth"
         },
 		{
             "Before": "www.manga88.com",
-            "After": "https://mb.manga88.com/main"
+            "After": "https://mb.manga88.com/auth"
         },
 		{
             "Before": "www.hira88.com",
-            "After": "https://mb.hira88.com/main"
+            "After": "https://mb.hira88.com/auth"
         },
 		{
             "Before": "www.drsam11.com",
-            "After": "https://mb.drsam11.com/main"
+            "After": "https://mb.drsam11.com/auth"
         },
 		{
             "Before": "www.sasa889.com",
-            "After": "https://mb.sasa889.com/main"
+            "After": "https://mb.sasa889.com/auth"
         },
 		{
             "Before": "www.file678.com",
-            "After": "https://mb.file678.com/main"
+            "After": "https://mb.file678.com/auth"
         },
 		{
             "Before": "www.xfile101.com",
-            "After": "https://mb.xfile101.com/main"
+            "After": "https://mb.xfile101.com/auth"
         },
 		{
             "Before": "www.vv4ever.com",
-            "After": "https://mb.vv4ever.com/main"
+            "After": "https://mb.vv4ever.com/auth"
         },
 		{
             "Before": "www.viva6889.com",
-            "After": "https://mb.viva6889.com/main"
+            "After": "https://mb.viva6889.com/auth"
         },
 		{
             "Before": "www.3x998.com",
-            "After": "https://mb.3x998.com/main"
+            "After": "https://mb.3x998.com/auth"
         },
 		{
             "Before": "www.x311y.com",
-            "After": "https://mb.x311y.com/main"
+            "After": "https://mb.x311y.com/auth"
         },
 		{
             "Before": "www.123888999.com",
-            "After": "https://mb.123888999.com/main"
+            "After": "https://mb.123888999.com/auth"
         },
 		{
             "Before": "www.vvinfo1.com",
-            "After": "https://mb.vvinfo1.com/main"
+            "After": "https://mb.vvinfo1.com/auth"
         },
 		{
             "Before": "789y.gatonic.com",
-            "After": "https://7y.gatonic.com/main"
+            "After": "https://7y.gatonic.com/auth"
         },
 		{
             "Before": "www.dexa88.com",
-            "After": "https://mb.dexa88.com/main"
+            "After": "https://mb.dexa88.com/auth"
         },
 		{
             "Before": "www.portoa88.com",
-            "After": "https://mb.portoa88.com/main"
+            "After": "https://mb.portoa88.com/auth"
         },
 		{
             "Before": "www.perpa88.com",
-            "After": "https://mb.perpa88.com/main"
+            "After": "https://mb.perpa88.com/auth"
         },
 		{
             "Before": "www.litap88.com",
-            "After": "https://mb.litap88.com/main"
+            "After": "https://mb.litap88.com/auth"
         },
 		{
             "Before": "www.buap88.com",
-            "After": "https://mb.buap88.com/main"
+            "After": "https://mb.buap88.com/auth"
         },
 		{
             "Before": "www.troy88.com",
-            "After": "https://mb.troy88.com/main"
+            "After": "https://mb.troy88.com/auth"
         },
 		{
             "Before": "www.asand88.com",
-            "After": "https://mb.asand88.com/main"
+            "After": "https://mb.asand88.com/auth"
         },
 		{
             "Before": "www.wasa88.com",
-            "After": "https://mb.wasa88.com/main"
+            "After": "https://mb.wasa88.com/auth"
         },
 		{
             "Before": "www.asawa88.com",
-            "After": "https://mb.asawa88.com/main"
+            "After": "https://mb.asawa88.com/auth"
         },
 		{
             "Before": "www.aweda88.com",
-            "After": "https://mb.aweda88.com/main"
+            "After": "https://mb.aweda88.com/auth"
         },
 		{
             "Before": "www.vi88ag.com",
-            "After": "https://mb.vi88ag.com/main"
+            "After": "https://mb.vi88ag.com/auth"
         },
 		{
             "Before": "www.vi89ag.com",
-            "After": "https://mb.vi89ag.com/main"
+            "After": "https://mb.vi89ag.com/auth"
         },
 		{
             "Before": "www.fina88ag.com",
-            "After": "https://mb.fina88ag.com/main"
+            "After": "https://mb.fina88ag.com/auth"
         },
 		{
             "Before": "www.ec88ag.com",
-            "After": "https://mb.ec88ag.com/main"
+            "After": "https://mb.ec88ag.com/auth"
         },
 		{
             "Before": "www.bele88.com",
-            "After": "https://mb.bele88.com/main"
+            "After": "https://mb.bele88.com/auth"
         }
         ,
 		{
             "Before": "www.pele88.com",
-            "After": "https://mb.pele88.com/main"
+            "After": "https://mb.pele88.com/auth"
         },
 		{
             "Before": "www.me88ag.com",
-            "After": "https://mb.me88ag.com/main"
+            "After": "https://mb.me88ag.com/auth"
         },
 		{
             "Before": "www.wi88ag.com",
-            "After": "https://mb.wi88ag.com/main"
+            "After": "https://mb.wi88ag.com/auth"
         },
 		{
             "Before": "www.go88ag.com",
-            "After": "https://mb.go88ag.com/main"
+            "After": "https://mb.go88ag.com/auth"
         },
 		{
             "Before": "www.go88al.com",
-            "After": "https://mb.go88al.com/main"
+            "After": "https://mb.go88al.com/auth"
         },
 		{
             "Before": "alp2.gatonic.com",
-            "After": "https://mbp2.gatonic.com/main"
+            "After": "https://mbp2.gatonic.com/auth"
         },
 		{
             "Before": "www.wi43ver.com",
-            "After": "https://mb.wi43ver.com/main"
+            "After": "https://mb.wi43ver.com/auth"
         },
 		{
             "Before": "www.bo89ag.com",
-            "After": "https://mb.bo89ag.com/main"
+            "After": "https://mb.bo89ag.com/auth"
         },
 		{
             "Before": "www.boag89.com",
-            "After": "https://mb.boag89.com/main"
+            "After": "https://mb.boag89.com/auth"
         },
 		{
             "Before": "www.sbal88.com",
-            "After": "https://mb.sbal88.com/main"
+            "After": "https://mb.sbal88.com/auth"
         },
 		{
             "Before": "www.wina78.com",
-            "After": "https://mb.wina78.com/main"
+            "After": "https://mb.wina78.com/auth"
         },
 		{
             "Before": "www.spoag89.com",
-            "After": "https://mb.spoag89.com/main"
+            "After": "https://mb.spoag89.com/auth"
         },
 		{
             "Before": "www.champi68.com",
-            "After": "https://mb.champi68.com/main"
+            "After": "https://mb.champi68.com/auth"
         },
 		{
             "Before": "www.spo68.com",
-            "After": "https://mb.spo68.com/main"
+            "After": "https://mb.spo68.com/auth"
         }
     ]
 } 

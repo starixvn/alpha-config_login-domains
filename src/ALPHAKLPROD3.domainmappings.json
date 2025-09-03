@@ -7,48 +7,48 @@
     "letstalkidNew": "",
     "IndirectLogin": {
         "AllowSuperIds": "*",
-        "URL": "https://mb2.halo888.com/main/Account/IndirectLogin"
+        "URL": "https://mb2.halo888.com/auth/Account/IndirectLogin"
     },
     "DomainMappings": [
 		{
             "Before": "indo-klp.starixplay.com",
-            "After": "https://indo-mb-klp.starixplay.com/main"
+            "After": "https://indo-mb-klp.starixplay.com/auth"
         },
 		{
             "Before": "www.halo888.com",
-            "After": "https://mb.halo888.com/main"
+            "After": "https://mb.halo888.com/auth"
         },
 		{
             "Before": "www.123halo.com",
-            "After": "https://mb.123halo.com/main"
+            "After": "https://mb.123halo.com/auth"
         },
 		{
             "Before": "www.idag88.com",
-            "After": "https://mb.idag88.com/main"
+            "After": "https://mb.idag88.com/auth"
         },
 		{
             "Before": "www.idagent88.com",
-            "After": "https://mb.idagent88.com/main"
+            "After": "https://mb.idagent88.com/auth"
         },
 		{
             "Before": "www.idb68.com",
-            "After": "https://mb.idb68.com/main"
+            "After": "https://mb.idb68.com/auth"
         },
 		{
             "Before": "www.ibcindo68.com",
-            "After": "https://mb.ibcindo68.com/main"
+            "After": "https://mb.ibcindo68.com/auth"
         },
 		{
             "Before": "www.baik168.com",
-            "After": "https://mb.baik168.com/main"
+            "After": "https://mb.baik168.com/auth"
         },
 		{
             "Before": "alp3.gatonic.com",
-            "After": "https://mbp3.gatonic.com/main"
+            "After": "https://mbp3.gatonic.com/auth"
         },
 		{
             "Before": "www.li88ag.com",
-            "After": "https://mb.li88ag.com/main"
+            "After": "https://mb.li88ag.com/auth"
         }
     ]
 } 

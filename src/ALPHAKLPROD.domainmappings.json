@@ -7,88 +7,88 @@
     "letstalkidNew": "",
     "IndirectLogin": {
         "AllowSuperIds": "*",
-        "URL": "https://mb2.ultra88.com/main/Account/IndirectLogin"
+        "URL": "https://mb2.ultra88.com/auth/Account/IndirectLogin"
     },
     "DomainMappings": [
 		{
             "Before": "mbc-klp.starixplay.com",
-            "After": "https://mbc-mb-klp.starixplay.com/main"
+            "After": "https://mbc-mb-klp.starixplay.com/auth"
         },
 		{
             "Before": "www.ultra88.com",
-            "After": "https://mb.ultra88.com/main"
+            "After": "https://mb.ultra88.com/auth"
         },
 		{
             "Before": "www.logifun.com",
-            "After": "https://mb.logifun.com/main"
+            "After": "https://mb.logifun.com/auth"
         },
 		{
             "Before": "www.zeta88.com",
-            "After": "https://mb.zeta88.com/main"
+            "After": "https://mb.zeta88.com/auth"
         },
 		{
             "Before": "www.stakecity.com",
-            "After": "https://mb.stakecity.com/main"
+            "After": "https://mb.stakecity.com/auth"
         },
 		{
             "Before": "www.mefolk.com",
-            "After": "https://mb.mefolk.com/main"
+            "After": "https://mb.mefolk.com/auth"
         },
 		{
             "Before": "www.bictown.com",
-            "After": "https://mb.bictown.com/main"
+            "After": "https://mb.bictown.com/auth"
         },
 		{
             "Before": "www.trumpback.com",
-            "After": "https://mb.trumpback.com/main"
+            "After": "https://mb.trumpback.com/auth"
         },
 		{
             "Before": "www.saki88.com",
-            "After": "https://mb.saki88.com/main"
+            "After": "https://mb.saki88.com/auth"
         },
 		{
             "Before": "www.zuranic.com",
-            "After": "https://mb.zuranic.com/main"
+            "After": "https://mb.zuranic.com/auth"
         },
 		{
             "Before": "www.bori88.com",
-            "After": "https://mb.bori88.com/main"
+            "After": "https://mb.bori88.com/auth"
         },
 		{
             "Before": "www.ozerani.com",
-            "After": "https://mb.ozerani.com/main"
+            "After": "https://mb.ozerani.com/auth"
         },
 		{
             "Before": "www.rubikta.com",
-            "After": "https://mb.rubikta.com/main"
+            "After": "https://mb.rubikta.com/auth"
         },
 		{
             "Before": "www.borinote.com",
-            "After": "https://mb.borinote.com/main"
+            "After": "https://mb.borinote.com/auth"
         },
 		{
             "Before": "www.consonate.com",
-            "After": "https://mb.consonate.com/main"
+            "After": "https://mb.consonate.com/auth"
         },
 		{
             "Before": "www.riki88.com",
-            "After": "https://mb.riki88.com/main"
+            "After": "https://mb.riki88.com/auth"
         },
 		{
             "Before": "www.zata88.com",
-            "After": "https://mb.zata88.com/main"
+            "After": "https://mb.zata88.com/auth"
         },
 		{
             "Before": "mbc.gatonic.com",
-            "After": "https://mb.gatonic.com/main"
+            "After": "https://mb.gatonic.com/auth"
         },
 		{
             "Before": "alp1.gatonic.com",
-            "After": "https://mbp1.gatonic.com/main"
+            "After": "https://mbp1.gatonic.com/auth"
         },
 		{
             "Before": "www.mu88ag.com",
-            "After": "https://mb.mu88ag.com/main"
+            "After": "https://mb.mu88ag.com/auth"
         }
     ]
 } 

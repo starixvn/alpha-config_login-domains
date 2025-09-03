@@ -7,7 +7,7 @@
     "letstalkidNew": "",
     "IndirectLogin": {
         "AllowSuperIds": "*",
-        "URL": "https://mb2.mu88ag.com/main/Account/IndirectLogin"
+        "URL": "https://mb2.mu88ag.com/auth/Account/IndirectLogin"
     },
     "DomainMappings": []
 }
